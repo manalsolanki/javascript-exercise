@@ -1,0 +1,20 @@
+button{
+    margin: 2em;
+    padding: 2em;
+    width:auto;
+    font-size: 1.5em;
+    border: 0.1em solid orchid;
+    border-radius:0.1em;
+    color:black;
+}
+#red-button{
+    background-color: red;
+}
+
+#blue-button{
+    background-color: blue;
+}
+
+#green-button{
+    background-color: chartreuse;
+}
